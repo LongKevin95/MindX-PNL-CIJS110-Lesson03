@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.main p {
+  margin-block: 1rem;
+}
+
+.name {
+  font-weight: bold;
+  color: red;
+}
+.inClass {
+  font-weight: bold;
+  color: green;
+}
+.slogan {
+  font-weight: bold;
+  color: blue;
+}
